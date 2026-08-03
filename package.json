@@ -1,0 +1,23 @@
+{
+  "name": "Rasya Order V8",
+  "version": "8.0.0",
+  "description": "Bot Telegram Store By Rasya",
+  "main": "rasyaaxinsa.js",
+  "scripts": {
+    "start": "node rasyaaxinsa.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "telegraf": "^4.15.0",
+    "qs": "^6.11.2",
+    "form-data": "^4.0.0",
+    "moment-timezone": "^0.5.43",
+    "ssh2": "^1.15.0",
+    "chalk": "^4.1.2",
+    "qrcode": "^1.5.0",
+    "archiver": "^7.0.0",
+    "canvas": "^3.1.0",
+    "node-cron": "^3.0.3", 
+    "telegram": "^2.26.22"
+  }
+}

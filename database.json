@@ -1,0 +1,339 @@
+{
+  "isPanelOpen": true,
+  "isPanelBiasaOpen": true,
+  "paymentMethod": "atlantic",
+  "integrations": {
+    "digitalOcean": {
+      "token": ""
+    },
+    "panel": {
+      "domain": "https://rasyaprivat.orang-gantengg.biz.id",
+      "apikey": ""
+    },
+    "panelbiasa": {
+      "domain": "https://domain-panel-biasa.com",
+      "apikey": "ptlc_apikey_panel_biasa_disini"
+    }
+  },
+  "scripts": [
+    {
+      "nama": "SC AUTO ORDER YG GW PAKE",
+      "harga": 30000,
+      "deskripsi": "FULL UP",
+      "file_id": "BQACAgUAAxkBAAECHplpjI0EqBiJ5oxNKj0V_bdxfpHdsAAC3RwAAo-BYFQnmb1-cL9-8zoE",
+      "fileName": "NEW_UP_NIH_GUYS.zip"
+    }
+  ],
+  "users": {
+    "1083342523": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "1656773420": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "1918005735": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "2127595841": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8233011887": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8547201293": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7951580158": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7557608732": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "6402420539": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "6854552378": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8163760361": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7159956800": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7855333336": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8202092350": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "5320834346": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7134766033": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7623488543": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7669159683": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8540580916": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8385875198": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8130194215": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7649018723": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8532761410": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7768901729": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8207212188": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8450435980": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8316455802": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8555584059": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7992802999": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8447526478": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8418444857": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8309055537": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7181419684": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7242979746": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "6788837324": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8406072196": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7057502492": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "6677229312": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "6010831493": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7491855686": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8474157088": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8480468963": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8147313682": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7644106896": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7218516312": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8032665706": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8467755702": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "7946596528": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8459056484": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    },
+    "8525168497": {
+      "coin": 0,
+      "joined": true,
+      "refBy": null,
+      "refCount": 0
+    }
+  },
+  "autoBroadcast": {
+    "status": false,
+    "text": "",
+    "lastRun": null
+  },
+  "reseller": {
+    "adminPanel": {
+      "monthly": 35000
+    }
+  }
+}
