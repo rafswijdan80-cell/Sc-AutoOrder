@@ -1,14 +1,14 @@
-** New Auto Order V7 **
+** New Auto Order V9 **
 
-## • Developer : Rasya Xinsa 
-## • Kontak Developer : t.me/rasyaxinsa2
-## • Channels Info : https://t.me/testirasyaxinsa 
+## • Developer : PutzOfficial
+## • Kontak Developer : t.me/PutzOfficial
+## • Channels Info : https://t.me/PutzOfficial1
 
 ** Thanks To **
 • Allah SWT (Tuhanku)
 • Orang Tua saya (Panutan ku)
 • Keluarga (Support system)
-• Saya (Rasya xinsa)
+• Saya (PutzOfficial)
 • Semua pembeli script Auto Order
 • All creator bot 
 
@@ -23,6 +23,7 @@
 
 ** Sekian dan terimakasih, bila ada yang mau di tanyakan chat telegram di atas! **
 
-`© Rasya Xinsa 2026`
+`© PutzOfficiall 2026`
 
 // Dilarang Mengganti Di Atas, Mengganti Mandul 7 Turunan
+// Dan sc ini ku update ke versi terbaru ya dan meningkatkan juga
